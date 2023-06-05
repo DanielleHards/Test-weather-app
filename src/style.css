@@ -1,0 +1,177 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #be0eaa;
+}
+.spring {
+  font-family: "Roboto", sans-serif;
+  color: #407088;
+}
+.summer {
+  font-family: "Roboto", sans-serif;
+  color: #fb9696;
+}
+.fall {
+  font-family: "Roboto", sans-serif;
+  color: #e03e36;
+}
+.winter {
+  font-family: "Roboto", sans-serif;
+  color: #4b81ab;
+}
+.appWrapper {
+  max-width: 600px;
+  margin: 30 auto;
+  padding: 20px;
+  border: 5px solid #a45fbe;
+  border-radius: 8px;
+  background: #382f60;
+}
+.appWrapperSpring {
+  max-width: 600px;
+  margin: 30 auto;
+  padding: 20px;
+  border: 5px solid #ffb5b5;
+  border-radius: 8px;
+  background: #ffcbcb;
+}
+.appWrapperSummer {
+  max-width: 600px;
+  margin: 30 auto;
+  padding: 20px;
+  border: 5px solid #be0eaa;
+  border-radius: 8px;
+  background: #ea2ba2;
+}
+.appWrapperFall {
+  max-width: 600px;
+  margin: 30 auto;
+  padding: 20px;
+  border: 5px solid #b80d57;
+  border-radius: 8px;
+  background: #700961;
+}
+.appWrapperWinter {
+  max-width: 600px;
+  margin: 30 auto;
+  padding: 20px;
+  border: 5px solid #382f60;
+  border-radius: 8px;
+  background: #485188;
+}
+form {
+  margin-top: 25px;
+}
+h1 {
+  font-size: 24px;
+  line-height: 28.8px;
+  text-align: left;
+  margin-top: 10px;
+}
+.currentConditionText {
+  color: #485188;
+}
+.currentConditionTextSpring {
+  color: #f16b98;
+}
+.currentConditionTextSummer {
+  color: #f6ca97;
+}
+.currentConditionTextFall {
+  color: #ff7c38;
+}
+.currentConditionTextWinter {
+  color: #a45fbe;
+}
+.degrees {
+  font-size: small;
+  position: relative;
+  bottom: 10px;
+  color: #407088;
+}
+.degreesSpring {
+  font-size: small;
+  position: relative;
+  bottom: 10px;
+  color: #407088;
+}
+.degreesSummer {
+  font-size: small;
+  position: relative;
+  bottom: 10px;
+  color: #f6ca97;
+}
+.degreesFall {
+  font-size: small;
+  position: relative;
+  bottom: 10px;
+  color: #ff7c38;
+}
+.degreesWinter {
+  font-size: small;
+  position: relative;
+  bottom: 10px;
+  color: #a45fbe;
+}
+.windSpeedUnit {
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 50;
+}
+ul {
+  list-style: none;
+  position: relative;
+  right: 30px;
+  text-transform: capitalize;
+}
+.col-2 {
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  margin-top: 15px;
+}
+.highTemp {
+  font-weight: 600;
+  color: #4b81ab;
+}
+.highTempSpring {
+  font-weight: 600;
+  color: #f16b98;
+}
+.highTempSummer {
+  font-weight: 600;
+  color: #f6ca97;
+}
+.highTempFall {
+  font-weight: 600;
+  color: #ff7c38;
+}
+.highTempWinter {
+  font-weight: 600;
+  color: #a45fbe;
+}
+.lowTemp {
+  font-weight: 200;
+  color: #4b81ab;
+}
+.lowTempSpring {
+  font-weight: 200;
+  color: #f16b98;
+}
+.lowTempSummer {
+  font-weight: 200;
+  color: #f6ca97;
+}
+.lowTempFall {
+  font-weight: 200;
+  color: #ff7c38;
+}
+.lowTempWinter {
+  font-weight: 200;
+  color: #a45fbe;
+}
+p {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
